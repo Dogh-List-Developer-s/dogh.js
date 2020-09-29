@@ -9,7 +9,7 @@ Você pode utilizar pacotes como `node-fetch` e `axios` para retornar o response
 
 Você pode utilizar o link abaixo para retornar valores de usuários em json.
 
-``https://botjs.02.fantasy.ovh:10251/api/users`` ou <br/>``https://botjs.02.fantasy.ovh:10251/api/users/`` **+ id** para retornar um usuário específico.
+``http://botjs.02.fantasy.ovh:10251/api/users`` ou <br/>``http://botjs.02.fantasy.ovh:10251/api/users/`` **+ id** para retornar um usuário específico.
 
 **Retorno**
 
@@ -24,7 +24,7 @@ Você pode utilizar o link abaixo para retornar valores de usuários em json.
 
 Você pode utilizar o link abaixo para retornar valores de bots em json.
 
-``https://botjs.02.fantasy.ovh:10251/api/bots`` ou <br/>``https://botjs.02.fantasy.ovh:10251/api/bots/`` **+ id** para retornar um bot específico.
+``http://botjs.02.fantasy.ovh:10251/api/bots`` ou <br/>``http://botjs.02.fantasy.ovh:10251/api/bots/`` **+ id** para retornar um bot específico.
 
 **Retorno**
 
